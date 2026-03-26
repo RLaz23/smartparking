@@ -1,0 +1,2 @@
+INSERT INTO PARKING_LOT (lot_id, location,capacity,occupied_spaces) values ('LOT1', 'Quezon City', 10, 0);
+INSERT INTO VEHICLE (license_plate, type, owner_name,parked_Lot_Id) values ('ABC-123', 'Car','Juan Dela Cruz', null);
